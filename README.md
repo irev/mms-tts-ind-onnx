@@ -11,7 +11,12 @@ Proyek ini melakukan konversi teks Bahasa Indonesia menjadi suara menggunakan mo
 - `mms_tokenizer/`: Folder tokenizer dan model.
 
 # Contoh Suara
-[🔊 Dengarkan Suara]([path/to/suara.mp3](https://github.com/irev/mms-tts-ind-onnx/blob/main/output.wav))
+[🔊 Dengarkan output.wav](https://raw.githubusercontent.com/irev/mms-tts-ind-onnx/main/output.wav)
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/irev/mms-tts-ind-onnx/main/output.wav" type="audio/wav">
+  Browser tidak mendukung tag audio.
+</audio>
 
 
 ## Instalasi
