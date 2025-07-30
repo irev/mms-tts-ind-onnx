@@ -1,0 +1,9 @@
+# requirements.txt
+# Daftar package Python yang diperlukan untuk menjalankan skrip utama
+transformers
+torch
+torchaudio
+soundfile
+onnx
+onnxruntime
+accelerate
