@@ -13,11 +13,6 @@ Proyek ini melakukan konversi teks Bahasa Indonesia menjadi suara menggunakan mo
 # Contoh Suara
 [🔊 Dengarkan output.wav](https://raw.githubusercontent.com/irev/mms-tts-ind-onnx/main/output.wav)
 
-<audio controls>
-  <source src="https://raw.githubusercontent.com/irev/mms-tts-ind-onnx/main/output.wav" type="audio/wav">
-  Browser tidak mendukung tag audio.
-</audio>
-
 
 ## Instalasi
 1. Install Python 3.8+.
