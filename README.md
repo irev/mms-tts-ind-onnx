@@ -10,6 +10,10 @@ Proyek ini melakukan konversi teks Bahasa Indonesia menjadi suara menggunakan mo
 - `mms_tts_ind_vits.onnx`: Model hasil ekspor ONNX.
 - `mms_tokenizer/`: Folder tokenizer dan model.
 
+# Contoh Suara
+[🔊 Dengarkan Suara]([path/to/suara.mp3](https://github.com/irev/mms-tts-ind-onnx/blob/main/output.wav))
+
+
 ## Instalasi
 1. Install Python 3.8+.
 2. Install dependensi:
