@@ -31,7 +31,7 @@ python run_tts_onnx.py
 ```
 
 ## Catatan
-- Model dan tokenizer diambil dari HuggingFace: `facebook/mms-tts-ind`.
+- Model dan tokenizer diambil dari HuggingFace: [facebook/mms-tts-ind](https://huggingface.co/facebook/mms-tts-ind).
 - Pastikan file dan folder model sudah tersedia sesuai struktur di atas.
 
 ## Lisensi
